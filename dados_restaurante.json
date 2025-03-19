@@ -1,0 +1,43 @@
+{
+    "reservas": [],
+    "pedidos": [],
+    "caixa": {
+        "Pix": 28.0,
+        "Debito": 0.0,
+        "Credito": 0.0,
+        "Especie": 0.0
+    },
+    "estoque": {
+        "Calabresa": 50,
+        "Frango com Catupiry": 50,
+        "Quatro Queijos": 50,
+        "Vegetariana": 50,
+        "Peperoni": 50,
+        "Portuguesa Gourmet": 50,
+        "Palmito": 50,
+        "Strogonoff": 50,
+        "Cheddar Bacon": 50,
+        "Mariscos": 50,
+        "Nhoque ao Sugo": 50,
+        "Penne ao Alfredo": 50,
+        "Ravioli de Ricota": 50,
+        "Talharim Carbonara": 50,
+        "Fettuccine com Camarão": 50,
+        "Canelone de Queijo": 50,
+        "Rigatoni à Bolonhesa": 50,
+        "Lasanha de Espinafre": 50,
+        "Espaguete ao Pesto": 50,
+        "Capeletti de Carne": 49
+    },
+    "funcionarios": [],
+    "fornecedores": [
+        {
+            "nome": "Omega",
+            "contato": "32522240",
+            "endereco": "Rua x, numero x",
+            "historico_compras": [
+                "10000"
+            ]
+        }
+    ]
+}
